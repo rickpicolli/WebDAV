@@ -10,6 +10,15 @@ img {
 	 height: 150px;
 }
 
-h2 {
+h2, h4 {
 	color: #1589FF;
 }
+
+h2 {
+	margin-top: 80px;
+}
+
+body {
+	background-color: #E5E4E2;
+}
+
